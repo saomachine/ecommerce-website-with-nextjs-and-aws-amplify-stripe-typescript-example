@@ -1,8 +1,8 @@
 export type AmplifyDependentResourcesAttributes = {
-    "api": {
-        "fosuaawholegreenfood": {
-            "GraphQLAPIIdOutput": "string",
-            "GraphQLAPIEndpointOutput": "string"
-        }
+  "api": {
+    "fosuaawholegreenfood": {
+      "GraphQLAPIEndpointOutput": "string",
+      "GraphQLAPIIdOutput": "string"
     }
+  }
 }

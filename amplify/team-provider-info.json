@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:us-east-1:476751718238:stack/amplify-fosuaawholegreenfood-dev-135110/938b2320-e01f-11ec-a5df-0e8fc0582e9d",
       "AmplifyAppId": "dx26bot97snat"
     }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fosuaawholegreenfood-main-4d457-authRole",
+      "UnauthRoleArn": "arn:aws:iam::324236699858:role/amplify-fosuaawholegreenfood-main-4d457-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::324236699858:role/amplify-fosuaawholegreenfood-main-4d457-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-fosuaawholegreenfood-main-4d457-deployment",
+      "UnauthRoleName": "amplify-fosuaawholegreenfood-main-4d457-unauthRole",
+      "StackName": "amplify-fosuaawholegreenfood-main-4d457",
+      "StackId": "arn:aws:cloudformation:eu-north-1:324236699858:stack/amplify-fosuaawholegreenfood-main-4d457/343229e0-439b-11f0-bf2f-0a39509a9a59",
+      "AmplifyAppId": "d3eyf7le6hkqg3"
+    },
+    "categories": {
+      "api": {
+        "fosuaawholegreenfood": {}
+      }
+    }
   }
 }
